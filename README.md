@@ -1,4 +1,4 @@
-# Simpe-GAN-s-using-TensorFlow
+# Simpe-GANs-using-TensorFlow
 
 ## Sample intuition how GAN'S work!!
 
